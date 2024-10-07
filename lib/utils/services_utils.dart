@@ -11,7 +11,7 @@ class ServicesUtils {
 
   static const List<String> servicesTitles = [
     "Mobile App Development",
-    "WardPress Development",
+    "WardPress Development"
     "UI/UX Designing",
     "Rapid Prototyping",
     "Technical Blog Writing",
